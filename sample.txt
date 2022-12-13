@@ -1,0 +1,7 @@
+This is a sample code
+public {
+code 
+newcode add
+{
+}
+}
